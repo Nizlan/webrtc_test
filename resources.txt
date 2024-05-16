@@ -1,0 +1,8 @@
+WebRTC:
+    -webRTCTutorial: https://youtu.be/hAKQzNQmNe0
+    -theory: (ru) https://www.youtube.com/watch?v=EZQ_RA5KTc8&ab_channel=FrontendChannel
+             (ru) https://www.youtube.com/watch?v=EouVG6fW4xM&t=1s&ab_channel=GDGRostov-on-Don
+cloud functions - https://levelup.gitconnected.com/send-push-notifications-from-a-flutter-app-to-devices-with-firebase-9c84ce58fe30
+
+android push:
+    - https://firebase.google.com/docs/cloud-messaging/
